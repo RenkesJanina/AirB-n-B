@@ -4,5 +4,5 @@ A reproduction of the AirBnB page to understand responsivity ,@media and naming 
 
 Profil GitHub: https://github.com/RenkesJanina
 
-<img src="./photos/lighthouse.jpg" style="width:30%;">
+<img src="./photos/Rbnb.jpg" style="width:30%;">
 
